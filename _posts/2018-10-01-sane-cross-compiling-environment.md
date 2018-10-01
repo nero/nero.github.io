@@ -49,7 +49,7 @@ Because the dynamic linker will per default search libraries in the global `/lib
 
 At first, i tried the 'hardcode everything' approach and built some shell scripts to calculate the appropiate compiler and configure flags.
 I really liked that approach, but having to recreate and maintain package build recipes is a big amount of work.
-The results of this are archived in [tesla.git](/projects.html#tesla).
+The results of this are archived in [tesla.git](git://git.w1r3.net/nero/tesla.git).
 
 With the newly gained knowledge, i found that there aren't much special effects necessary to get an cross-architecture binary with shared libraries running under the same root.
 I dropped the idea of an special filesystem structure.
