@@ -24,6 +24,8 @@ To register it with `mdev`, add the following line to `/etc/mdev.conf`:
 $COUNTRY=.. root:root 0660 */sbin/crda
 ```
 
+*Update*: Maximilian Betz [pointed out](https://pi3g.com/2018/08/06/wifi-channel-13-14-on-alpine-linux-aka-i-cant-connect-to-my-router-aka-crda-configuration/) that the position within `mdev.conf` is relevant, it belongs to the top.
+
 This was discussed previously [on alpine-devel](http://lists.alpinelinux.org/alpine-devel/5092.html).
 
 To register it with `udev`, create an udev rule as follows:
