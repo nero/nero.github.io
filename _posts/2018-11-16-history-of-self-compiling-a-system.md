@@ -29,7 +29,7 @@ While the original code was lost, the code from this remake is [still available]
 Makefile-based approach. Essentially, there was an top-level makefile, which had all the sources and build results as target.
 Still depended on an pre-existing toolchain, but was able to cross-compile a tiny base system with busybox, both dynamically and statically.
 
-I discovered the way of using user namespaces to create [unprivileged chroots]({% post_url 2018-01-13-containers-with-shell-and-unshare.md %}).
+I discovered the way of using user namespaces to create [unprivileged chroots]({% post_url 2018-01-13-containers-with-shell-and-unshare %}).
 This iteration was the first one to properly make use of CPPFLAGS and LDFLAGS to compile against a different sysroot.
 
 The code for this was lost.
@@ -48,4 +48,4 @@ The code is [still available](git://git.w1r3.net/nero/tonic-submodules.git).
 After taking a look at Exherbo Linux, i got much into the idea of using `/usr/<host_touple>` as prefix.
 This would have made cross-compiling much easier.
 
-I wrote a [PoC](git://git.w1r3.net/nero/tesla.git), but [after researching]({% post_url 2018-10-01-sane-cross-compiling-environment.md %}), i felt like its just too much complexity, when sane cross-compiling could be achieved otherwise.
+I wrote a [PoC](git://git.w1r3.net/nero/tesla.git), but [after researching]({% post_url 2018-10-01-sane-cross-compiling-environment %}), i felt like its just too much complexity, when sane cross-compiling could be achieved otherwise.
