@@ -29,6 +29,8 @@ This list is neither static nor exhaustive.
 ## Apple
 
 - Shitty worker treatment.
+- Actively impedes third-party component-level repairs
+- Misinforms customers about repair options to sell more products
 
 ## Blizzard Entertainment
 
