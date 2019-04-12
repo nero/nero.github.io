@@ -1,5 +1,6 @@
 ---
 layout: page
+exclude: true
 ---
 
 # Shitlist
