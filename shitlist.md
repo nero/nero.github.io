@@ -23,7 +23,7 @@ This list is neither static nor exhaustive.
 ## Amazon
 
 - Shitty worker treatment.
-- Alexa could connection, which is privacy violation per design.
+- Alexa cloud connection, which is privacy violation per design.
 - Amazon Prime Ads / Subscription Trickery
 
 ## Apple
