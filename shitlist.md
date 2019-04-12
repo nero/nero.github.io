@@ -14,168 +14,172 @@ This list is neither static nor exhaustive.
 
 ## AMD
 
-Intentional Backdooring (Platform Security Processor)
+- Intentional Backdooring (Platform Security Processor)
 
 ## Allwinner
 
-For producing SoC that are only supported if you compile linux with object files distributed as binary.
+- For producing SoC that are only supported if you compile linux with object files distributed as binary.
 
 ## Amazon
 
-Shitty worker treatment.
-Alexa could connection, which is privacy violation per design.
-Amazon Prime Ads / Subscription Trickery
+- Shitty worker treatment.
+- Alexa could connection, which is privacy violation per design.
+- Amazon Prime Ads / Subscription Trickery
 
 ## Apple
 
-Shitty worker treatment.
+- Shitty worker treatment.
 
 ## Blizzard Entertainment
 
-Telemetry.
+- Telemetry.
 
 ## Change.org
 
-Selling data of signers.
-Conscience scam.
+- Selling data of signers.
+- Conscience scam.
 
 ## Cisco
 
-Persistently bad software quality for critical infrastructure.
+- Persistently bad software quality for critical infrastructure.
 
 ## Coraline Ada (Person)
 
-Leftist signalling in Open Source (Contributor Coveneant).
-Persistently attempting to gain political influence over projects.
+- Leftist signalling in Open Source (Contributor Coveneant).
+- Persistently attempting to gain political influence over projects.
 
 ## Deutsche Telekom AG
 
-Didn't want to peer at DE-CIX, causing mis-routing of german traffic across non-german nodes.
-Tried to use said failure as reasoning for a 'german-only' net as business opportunity.
-Demands extra money for non-congested peering (aka doing their job).
-Fiber scam.
+- Didn't want to peer at DE-CIX, causing mis-routing of german traffic across non-german nodes.
+- Tried to use said failure as reasoning for a 'german-only' net as business opportunity.
+- Demands extra money for non-congested peering (aka doing their job).
+- Fiber scam.
 
 ## DHL
 
-Shitty worker treatment.
+- Shitty worker treatment.
 
 ## Facebook
 
-Their business model is selling your data and then lying about it.
-Intransparent Banning.
-Radicalizing people by filter bubbles.
+- Their business model is selling your data and then lying about it.
+- Intransparent Banning.
+- Radicalizing people by filter bubbles.
 
 ## FreeBSD
 
-Leftist signalling (No hug is illegal!).
+- Leftist signalling (No hug is illegal!).
 
 ## Generali Versicherungen
 
-Youtube Ads.
-Insurances deal with massive individual surveilance.
+- Youtube Ads.
+- Insurances deal with massive individual surveilance.
 
 ## GEZ
 
-Scam to secure ex-politicans pensions.
+- Scam to secure ex-politicans pensions.
+
+## Gilette
+
+- The 2019 Ad.
 
 ## Github
 
-Leftist signalling.
-Excerting political pressure on projects.
+- Leftist signalling.
+- Excerting political pressure on projects.
 
 ## Google Services
 
-They scrape all your stuff to target ads.
-Intransparent banning.
+- They scrape all your stuff to target ads.
+- Intransparent banning.
 
 ## Intel
 
-Intentional Backdooring (Management Engine)
+- Intentional Backdooring (Management Engine)
 
 ## Lennart Poettering (Person)
 
-Regardless what he does wrong, its always the messengers fault.
-Wouldn't be an issue if he wasn't maintaining infrastructure-critical software.
+- Regardless what he does wrong, its always the messengers fault.
+- Wouldn't be an issue if he wasn't maintaining infrastructure-critical software.
 
 ## LG Electronics
 
-TV Telemetry.
+- TV Telemetry.
 
 ## LLVM
 
-Leftist signalling.
+- Leftist signalling.
 
 ## Microsoft
 
-Windows Telemetry.
-Hostility towards Free Software.
+- Windows Telemetry.
+- Hostility towards Free Software.
 
 ## Nestle
 
-Conspiring to blame fats for unhealthy food, while they make profits on selling sugar.
-Irresponsible water draining.
+- Conspiring to blame fats for unhealthy food, while they make profits on selling sugar.
+- Irresponsible water draining.
 
 ## Niantic Labs
 
-Perpetually concepting games which inevitably result in loss of players location privacy.
-Coincidentally, funded via In-Q-Tel/CIA.
+- Perpetually concepting games which inevitably result in loss of players location privacy.
+- Coincidentally, funded via In-Q-Tel/CIA.
 
 ## Opal / Wowaname (Person)
 
-Like, if you go to any random IRC on the web, chances are that he is already banned there.
-Prolific spammer.
-Seems to have gotten their spaghetti together, canidate for removal from this list.
+- Like, if you go to any random IRC on the web, chances are that he is already banned there.
+- Prolific spammer.
+- Seems to have gotten their spaghetti together, canidate for removal from this list.
 
 ## Paypal
 
-On-call removal of accounts for controversial customers.
-Intransparent banning.
+- On-call removal of accounts for controversial customers.
+- Intransparent banning.
 
 ## RedHat
 
-Abusing control over Free Software ecosystems to introduce dependency on own project.
+- Abusing control over Free Software ecosystems to introduce dependency on own project.
 
 ## Sachsenmilch
 
-Subsidary of Unternehmensgrupe Theo Müller.
+- Subsidary of Unternehmensgrupe Theo Müller.
 
 ## SAP
 
-Nonsensical internal policies.
-Proliferation of software crap.
+- Nonsensical internal policies.
+- Proliferation of software crap.
 
 ## T-Systems
 
-I received worst customer support there, while not being an customer, but employee.
-Nonsensical internal policies.
+- I received worst customer support there, while not being an customer, but employee.
+- Nonsensical internal policies.
 
 ## Tsutsu (Person)
 
-Constant harassing at 34c3.
-Repeated toxic behavior after expired bans.
+- Constant harassing at 34c3.
+- Repeated toxic behavior after expired bans.
 
 ## Twitter
 
-Radicalizing people by filter bubbles.
-Intransparent Banning.
+- Radicalizing people by filter bubbles.
+- Intransparent Banning.
 
 ## Unternehmensgrupe Theo Müller
 
-Subsidizing Scams.
-Asshats towards Farmers (Milk Protests 2008).
+- Subsidizing Scams.
+- Asshats towards Farmers (Milk Protests 2008).
 
 ## WhatsApp
 
-Harassing open-source projects providing interfaces to the messenger (Yowsup).
-Basing on open protocol (XMPP) while being asshats to open software.
-Stealing contact lists for ad targeting (giving them to Facebook).
-Subsidary of Facebook.
+- Harassing open-source projects providing interfaces to the messenger (Yowsup).
+- Basing on open protocol (XMPP) while being asshats to open software.
+- Stealing contact lists for ad targeting (giving them to Facebook).
+- Subsidary of Facebook.
 
 ## Youtube
 
-Intransparent Banning.
-Automated content creator harassment via Content-ID.
+- Intransparent Banning.
+- Automated content creator harassment via Content-ID.
 
 ## Zalando
 
-1st place in the intergalactic competition "Most annoying ad". Aaaaaaaah.
+- 1st place in the intergalactic competition "Most annoying ad". Aaaaaaaah.
