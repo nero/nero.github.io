@@ -155,11 +155,6 @@ This list is neither static nor exhaustive.
 - I received worst customer support there, while not being an customer, but employee.
 - Nonsensical internal policies.
 
-## Tsutsu (Person)
-
-- Constant harassing at 34c3.
-- Repeated toxic behavior after expired bans.
-
 ## Twitter
 
 - Radicalizing people by filter bubbles.
