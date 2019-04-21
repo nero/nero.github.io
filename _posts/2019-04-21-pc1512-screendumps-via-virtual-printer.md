@@ -95,9 +95,10 @@ I typed some umlauts before repeating the screen dump, this time dumping the con
 With `hexdump -Cv` i inspected the byte values for the garbed characters and matched their values with the code pages tables on wikipedia, quickly identifying the US/Latin codepage 437.
 This seems a bit off, since the machine itself is hard-coded into a german keyboard layout and also outputs german error messages.
 
-By post-processing the screendumps via `iconv -f CP437 -t UTF-8`, im was able to produce unicode-compatible data:
+By post-processing the screendumps via `iconv -f CP437 -t UTF-8`, i was able to produce unicode-compatible data:
 
-```                                                                                
+```
+                                                                                
 A»FDD [A] C»HDD [C] F6ComDtct F8RomBoot                                         
 (c)1986 AMSTRAD Consumer Electronics plc                                        
                                                                                 
