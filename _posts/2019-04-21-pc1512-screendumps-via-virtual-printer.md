@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PC1512: Screendumps via virtual printer
+title: "PC1512: Screendumps via virtual printer"
 ---
 
 A while ago i got a Amstrad Schneider PC1512 from a hacker, who himself got it from their granddad.
