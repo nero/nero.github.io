@@ -92,7 +92,7 @@ I soldered the 8 data lines, 3 control lines and ground from the Nano to a male 
 Pressing `Shift+PrtScr` on the PC1512 resulted in the screen buffer indeed appearing on my screen, except that non-ascii characters were garbled.
 I typed some umlauts before repeating the screen dump, this time dumping the contents into a file.
 
-With `hexdump -Cv` i inspected the byte values for the garbed characters and matched their values with the code pages tables on wikipedia, quickly identifying the US/Latin codepage 437.
+With `hexdump -Cv` i inspected the byte values for the garbled characters and matched their values with the code pages tables on wikipedia, quickly identifying the US/Latin codepage 437.
 This seems a bit off, since the machine itself is hard-coded into a german keyboard layout and also outputs german error messages.
 
 By post-processing the screendumps via `iconv -f CP437 -t UTF-8`, i was able to produce unicode-compatible data:
