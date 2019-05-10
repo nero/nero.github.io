@@ -126,12 +126,6 @@ This list is neither static nor exhaustive.
 - Perpetually concepting games which inevitably result in loss of players location privacy.
 - Coincidentally, funded via In-Q-Tel/CIA.
 
-## Opal / Wowaname (Person)
-
-- Like, if you go to any random IRC on the web, chances are that he is already banned there.
-- Prolific spammer.
-- Seems to have gotten their spaghetti together, canidate for removal from this list.
-
 ## Paypal
 
 - On-call removal of accounts for controversial customers.
