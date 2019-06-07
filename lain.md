@@ -5,6 +5,11 @@ layout: page
 
 This is a collection of links to lain-related resources.
 
+## Other link lists
+
+- [cjaw.org/~leng](https://www.cjas.org/~leng/lainlink.htm)
+- [lain.wiki/Fanworks](https://lain.wiki/wiki/Fanworks)
+
 ## Git
 
 - [git.lain.church](https://git.lain.church/)
