@@ -11,7 +11,7 @@ Pasting text is done via the middle button of the mouse or Shift+Insert.
 
 If you haven't used it yet, you may try it out!
 
-<textarea width=100% height=200></textarea>
+<textarea></textarea>
 
 Quite some terminal emulators were written with PRIMARY in mind - xterm, st, rxvt, and as of 2019, its still the default copypaste method for them.
 
