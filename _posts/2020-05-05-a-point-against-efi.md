@@ -22,7 +22,7 @@ This broke the neck of most attempts of using these uuid's for identifying machi
 FAT is actually pretty portable, since its supported by many operating systems.
 
 Except for its Bios Parameter Block, which, despite its name, is still used from EFI.
-(Wikipedia)[https://en.wikipedia.org/wiki/BIOS_parameter_block] lists 7 different version for the BPB.
+[Wikipedia](https://en.wikipedia.org/wiki/BIOS_parameter_block) lists 7 different version for the BPB.
 Some of them are incompatible.
 They dont have a field specifiying their version.
 The later versions have signatures, but you cant rely on them, since earlier versions might have their boot code at the exact same place and might accidentally test positive because the signatures are only one byte long.
