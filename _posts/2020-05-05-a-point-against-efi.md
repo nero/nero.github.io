@@ -41,7 +41,7 @@ And EFI binaries are PE executables, by specification.
 So if you do a hexdump on EFI binaries, you can see that they start with the magic number for 16-bit DOS binaries.
 The 32bit/64bit code is hacked on top.
 
-At least the EFI people went forward in time by omitting the 16-bit "This Program cannt be run in DOS Mode"-stub code and leaving that area of EFI binaries zeroed out.
+At least the EFI people went forward in time by omitting the 16-bit "This Program cannot be run in DOS Mode"-stub code and leaving that area of EFI binaries zeroed out.
 
 ## Windows-Specific
 
