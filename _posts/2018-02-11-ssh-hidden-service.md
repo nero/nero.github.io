@@ -3,7 +3,7 @@ layout: post
 title: "SSH as a hidden service"
 ---
 
-*NOTE*: This article features onion v2 addresses, which are obsolete as of 2020
+**NOTE: This article features onion v2 addresses, which are obsolete as of 2020**
 
 Connecting to a server via Tor is useful if:
 
