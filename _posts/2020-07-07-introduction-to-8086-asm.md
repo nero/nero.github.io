@@ -149,3 +149,9 @@ If you are fine with printf-style debugging, you can download my [debug rom](htt
 If its loaded, everytime you let the CPU execute an `int 3` instruction, it prints the 8086 register set with its values in hexadecimal.
 
 It also catches some kinds of fatal errors, printing some useful information instead of letting the machine silently crash.
+
+## Observing the binary result
+
+By adding `-l prog.lst` to the nasm command line, assembling will also generate a listing file containing both a hexdump of the binary instructions and their corresponding source line.
+
+To disassemble your binary, run `ndisasm -b 16 -o 0x7C00 prog.bin`. This will not result in your original sourcecode, but might help you understanding whats going on in a binary.
