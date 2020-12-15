@@ -1,19 +1,5 @@
 <footer class="site-footer">
 
-<script>
-function url_domain(data) {
-  var a = document.createElement('a');
-  a.href = data;
-  return a.hostname;
-}
-
-var from = document.referrer;
-var to = window.location.href;
-
-if (from && url_domain(from) != url_domain(to))	{
-  var pixelUrl = 'https://w1r3.net/cgi-bin/backlinks.php?from=' + encodeURIComponent(from) + '&to=' + encodeURIComponent(to);
-  document.write('<img src="' + pixelUrl + '" />');
-}
-</script>
+<script src="https://yin.neocities.org/main.js"></script> 
 
 </footer>
