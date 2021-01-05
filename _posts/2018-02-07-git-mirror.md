@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Setting up a bare git mirror"
+tags:
+  - outdated
 ---
 
 Today i setup a private mirror of the busybox repository:
