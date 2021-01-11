@@ -3,8 +3,7 @@ layout: post
 title:  Live switching Void Linux from glibc to musl
 ---
 
-*Update:* I haven't been using void for over 3 years now, i dont know if this post is still accurate.
-Check out [this post](https://www.ch1p.io/void-linux-musl-glibc/) from 2020.
+**Update: I haven't been using void for over 3 years now, i dont know if this post is still accurate. Check out [this post](https://www.ch1p.io/void-linux-musl-glibc/) from 2021**.
 
 ## Background
 
