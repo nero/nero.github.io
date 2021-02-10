@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why does DOS need multiple stacks"
+title: "Why does DOS needs multiple stacks"
 ---
 
 In CP/M and DOS systems, it is customary that a module of code uses its own stack area.
