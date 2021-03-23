@@ -32,8 +32,8 @@ This does not create additional hazzle since the compiled programs still use the
 
 Related discussions:
 
-- https://www.virtualbox.org/ticket/58
-- https://qemu-devel.nongnu.narkive.com/EfYtQYUC/patch-0-of-1-fix-for-dos-keyboard-problems
+- [https://www.virtualbox.org/ticket/58](https://www.virtualbox.org/ticket/58)
+- [https://qemu-devel.nongnu.narkive.com/EfYtQYUC/patch-0-of-1-fix-for-dos-keyboard-problems](https://qemu-devel.nongnu.narkive.com/EfYtQYUC/patch-0-of-1-fix-for-dos-keyboard-problems)
 
 The NASM source for the TSR program that prevents interrupt 9 modification is following.
 
