@@ -8,7 +8,7 @@ This post is about social drama, technical readers are invited to decide for the
 Richard M. Stallman is indeed a controversial figure, he resigned from his position as the FSF president in 2019.
 In 2021, he re-joined the FSF board of directory.
 
-This made alot of people angry. This post is not about RMS, but about these angry people.
+This made a lot of people angry. This post is not about RMS, but about these angry people.
 Some of these people created a website to remove RMS again:
 
 [https://rms-open-letter.github.io/](https://rms-open-letter.github.io/). Take a minute to read this.
