@@ -5,7 +5,7 @@ title: "About the RMS cancellation"
 
 This post is about social drama, technical readers are invited to decide for themselves whether they want any of this shit.
 
-*Warning: This article requires to have empathy with people who did wrong*
+**Warning: This article requires to have empathy with people who did wrong.**
 
 Richard M. Stallman is indeed a controversial figure, he resigned from his position as the FSF president in 2019.
 In 2021, he re-joined the FSF board of directory.
