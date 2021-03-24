@@ -13,14 +13,14 @@ Some of these people created a website to remove RMS again:
 
 [https://rms-open-letter.github.io/](https://rms-open-letter.github.io/). Take a minute to read this.
 
-The second sentence calls him three slurs - "misogynist, ableist, and transphobic".
-The rest of the document doesn't get any better.
+The second sentence calls him three slurs - misogynist, ableist, and transphobic.
+The rest of the document follows this line for pejorative language.
 People who now want to say these are not slurs: you mean that they are not ethnic slurs, and you are correct with that, but they are still regular slurs.
 
 I agree that RMS did some objectionable things, but the open letter puts the bar even lower.
 Even in the western society, even Terrorists aren't met with such levels of contempt and defamation.
 Instead, the open letter reads like a North Korean Newpaper denouncing a defector.
-I am asking the reader, from adult to adult, is this an acceptable way to approach the Situation with RMS?
+I am asking the reader, from adult to adult, is this an acceptable way to approach the situation with RMS?
 I'm sure its not.
 Calling people names is not a acceptable form of handling social conflict, and i cant wrap my mind around why adult people think it is.
 And im sick of seeing people act like this.
